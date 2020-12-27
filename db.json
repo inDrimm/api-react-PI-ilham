@@ -52,6 +52,60 @@
         "instansi" : "Kejaksaan Agung",
         "tglPengusulan" : "22/08/2020",
         "progressUsulan" : "Validasi"
+    },
+	{
+        "NoSU" : "198609262015051012",
+        "jenisMutasi" : "Golongan/KP",
+        "nipPengusul" : "197003191997031012",
+        "namaPengusul" : "Alan Hadi",
+        "instansi" : "Badan Kepegawaian Negara",
+        "tglPengusulan" : "01/08/2020",
+        "progressUsulan" : "Pembuatan Pertek/SK"
+    },
+    {
+        "NoSU" : "198609262015051013",
+        "jenisMutasi" : "Pendidikan",
+        "nipPengusul" : "197003191997031013",
+        "namaPengusul" : "Azis Pasha",
+        "instansi" : "Kementerian Sosial",
+        "tglPengusulan" : "01/08/2020",
+        "progressUsulan" : "Validasi"
+    },
+    {
+        "NoSU" : "198609262015051014",
+        "jenisMutasi" : "PMK",
+        "nipPengusul" : "197003191997031014",
+        "namaPengusul" : "Bimo Suryo",
+        "instansi" : "Kementerian Agama",
+        "tglPengusulan" : "01/08/2020",
+        "progressUsulan" : "Validasi"
+    },
+    {
+        "NoSU" : "198609262015051015",
+        "jenisMutasi" : "Pindah Instansi",
+        "nipPengusul" : "197003191997031015",
+        "namaPengusul" : "Raka Pratama",
+        "instansi" : "Kejaksaan Agung",
+        "tglPengusulan" : "01/08/2020",
+        "progressUsulan" : "Pembuatan Pertek/SK"
+    },
+    {
+        "NoSU" : "198609262015051016",
+        "jenisMutasi" : "Profesi",
+        "nipPengusul" : "197003191997031016",
+        "namaPengusul" : "Figa Rizfa",
+        "instansi" : "Kejaksaan Agung",
+        "tglPengusulan" : "01/08/2020",
+        "progressUsulan" : "Validasi"
+    },
+    {
+        "NoSU" : "198609262015051017",
+        "jenisMutasi" : "Kedudukan Hukum",
+        "nipPengusul" : "197003191997031017",
+        "namaPengusul" : "Ghifari Prameswari",
+        "instansi" : "Kejaksaan Agung",
+        "tglPengusulan" : "22/08/2020",
+        "progressUsulan" : "Validasi"
     }
 ]
 }
